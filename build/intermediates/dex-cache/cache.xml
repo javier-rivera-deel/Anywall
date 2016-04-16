@@ -1,3 +1,194 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.0.0_9ee6d305fce96bea98359675d3ee2b5e6f66303f\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.0.0_27725ae24d325ce1228c14311bd0f86044710c79\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.0.0_e5ef554ba8498323b3045052a2d68ac7ffc77bc7\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.0.0_3e043e7ed497adbacdb5a72d519f4419b71032e9\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.0.0_f17953e4c4ee6e864bd80d8f9a3dd7f752e4e43f\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.0.0_e3fbf61289831d7c6b792b55f48c2691a7f4659b\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.0.0_a215f3079bc597f2d83f55f11e0ac0090f5c9fac\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.0.0_233a22e9b36e0dc61b27500650bede47e5415873\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.0.0_313777cdfeb20b212e45cdf0de33fab2f6eec595\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.0.0_c1fdfd3aa08a56282215a4aa1241e7cc530749e0\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_4494377ae88df06c20db9474476715065b0791f5\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.0.0_4b9924f37938e3e7160a9847c9f683c88dfba86f\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.0.0_e43ad8a4c3b888600e5c69b94210a46ad4027df4\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_150ca6a20fee36a0df47d30cb5b8666f342565dc\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.0.0_13b03184fb491a5e492d69e3d5dc1c9e677aa9af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Javier\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_24b22be5167469ded387736c17c9bb792777b73b\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="38b6e90310feb88191710bfaa07fd590127afbbd">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fd2cf3afd8509b7a3ce7ce1c6cac95f0abcc748a\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.0.0_de6eae69c710e7183f7d5344b83890fea37cdc5c\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\libs\Parse-1.6.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2a812174191af5a4513a873602a765b0171f252c">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\2\Parse-1.6.0_941c22df583a19bdc9710b59f486d4ded2d30248\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.0.0_a38cf5e17d74069f8a501fa04544d11520e02e69\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.0.0_d50a17d3587ed5aab7e715dd292b98f603a88bf0\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d98766dcddc2540545fb7698d857ef8141adfc79">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c2bc59461002828a87de16fc6e27682af5a94055\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_ea5cf40d58d205ad8e600e599006c1d08d86456e\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.0.0_2a9affcd4741cc584dd3abb0ac063acfb49b5f80\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.0.0_28ea13ec9fc1b07e611be476b8c98f0a2a3a2d8d\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.0.0_ce82f79336ea9c3f59d6bd1adfcbb96cce597e77\classes.dex" />
+    </item>
+    <item
+        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.0.0_3473f646f23943abc842ee19103036bae8ba2bb7\classes.dex" />
+    </item>
+
+</items>

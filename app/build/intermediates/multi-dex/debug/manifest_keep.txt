@@ -1,0 +1,21 @@
+-keep class com.parse.anywall.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.parse.anywall.MainActivity { <init>(); }
+-keep class com.parse.anywall.LoginActivity { <init>(); }
+-keep class com.parse.anywall.SignUpActivity { <init>(); }
+-keep class com.parse.anywall.DispatchActivity { <init>(); }
+-keep class com.parse.anywall.WelcomeActivity { <init>(); }
+-keep class com.parse.anywall.PostActivity { <init>(); }
+-keep class com.parse.anywall.SettingsActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor

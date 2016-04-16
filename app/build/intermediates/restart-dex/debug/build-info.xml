@@ -4,39 +4,29 @@
     api-level="21"
     density="xhdpi"
     format="7"
-    timestamp="308303939054392" >
+    timestamp="308920913557506" >
 
     <task
         name="javac"
-        duration="548" />
+        duration="623" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="25" />
+        duration="1206" />
     <task
         name="verifier"
-        duration="4" />
+        duration="391" />
 
     <artifact
-        location="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-        type="DEX" />
+        location="G:\Documents\udacity\developing_android_apps\Anywall\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="306308086735322" >
+    <build timestamp="308920913557506" >
         <artifact
             location="G:\Documents\udacity\developing_android_apps\Anywall\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="307539797020653" >
-        <artifact
-            location="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-    </build>
-    <build timestamp="308303939054392" >
-        <artifact
-            location="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>
