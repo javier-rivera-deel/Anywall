@@ -64,30 +64,24 @@ public class SignUpActivity extends Activity {
 
     // Validate the sign up data
     boolean validationError = false;
-    StringBuilder validationErrorMessage = new StringBuilder(getString(R.string.error_intro));
+    String validationErrorMessage = new String(getString(R.string.error_intro));
     if (username.length() == 0) {
       validationError = true;
-      validationErrorMessage.append(getString(R.string.error_blank_username));
+      validationErrorMessage = getString(R.string.error_blank_username);
     }
     if (password.length() == 0) {
-      if (validationError) {
-        validationErrorMessage.append(getString(R.string.error_join));
-      }
       validationError = true;
-      validationErrorMessage.append(getString(R.string.error_blank_password));
+        validationErrorMessage = getString(R.string.error_blank_password);
     }
     if (!password.equals(passwordAgain)) {
-      if (validationError) {
-        validationErrorMessage.append(getString(R.string.error_join));
-      }
       validationError = true;
-      validationErrorMessage.append(getString(R.string.error_mismatched_passwords));
+      validationErrorMessage = getString(R.string.error_mismatched_passwords);
     }
-    validationErrorMessage.append(getString(R.string.error_end));
+    //validationErrorMessage.append(getString(R.string.error_end));
 
     // If there is a validation error, display the error
     if (validationError) {
-      Toast.makeText(SignUpActivity.this, validationErrorMessage.toString(), Toast.LENGTH_LONG)
+      Toast.makeText(SignUpActivity.this, validationErrorMessage.toString(), Toast.LENGTH_SHORT)
           .show();
       return;
     }
@@ -109,7 +103,7 @@ public class SignUpActivity extends Activity {
         dialog.dismiss();
         if (e != null) {
           // Show the error message
-          Toast.makeText(SignUpActivity.this, e.getMessage(), Toast.LENGTH_LONG).show();
+          Toast.makeText(SignUpActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
         } else {
           // Start an intent for the dispatch activity
           Intent intent = new Intent(SignUpActivity.this, DispatchActivity.class);

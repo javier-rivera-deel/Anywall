@@ -1,12 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2" />
 
-    <item
-        jar="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="8cd357bd76965e1a5ee53fb44a59ca943f7c8843">
-        <dex dex="G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fd2cf3afd8509b7a3ce7ce1c6cac95f0abcc748a\classes.dex" />
-    </item>
-
-</items>

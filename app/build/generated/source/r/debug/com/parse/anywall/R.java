@@ -1699,8 +1699,9 @@ containing a value of this type.
         public static final int ic_plusone_small_off_client=0x7f02004f;
         public static final int ic_plusone_standard_off_client=0x7f020050;
         public static final int ic_plusone_tall_off_client=0x7f020051;
-        public static final int powered_by_google_dark=0x7f020052;
-        public static final int powered_by_google_light=0x7f020053;
+        public static final int intro=0x7f020052;
+        public static final int powered_by_google_dark=0x7f020053;
+        public static final int powered_by_google_light=0x7f020054;
     }
     public static final class id {
         public static final int LinearLayout1=0x7f0d0059;
@@ -1718,7 +1719,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0d0043;
         public static final int action_mode_bar_stub=0x7f0d0042;
         public static final int action_mode_close_button=0x7f0d0035;
-        public static final int action_settings=0x7f0d006e;
+        public static final int action_settings=0x7f0d006b;
         public static final int activity_chooser_view_content=0x7f0d0036;
         public static final int adjust_height=0x7f0d0017;
         public static final int adjust_width=0x7f0d0018;
@@ -1732,7 +1733,7 @@ containing a value of this type.
         public static final int checkbox=0x7f0d003e;
         public static final int classic=0x7f0d0030;
         public static final int collapseActionView=0x7f0d001d;
-        public static final int content_view=0x7f0d006c;
+        public static final int content_view=0x7f0d0069;
         public static final int decor_content_parent=0x7f0d0044;
         public static final int default_activity_button=0x7f0d0039;
         public static final int description_textview=0x7f0d005f;
@@ -1803,15 +1804,12 @@ containing a value of this type.
         public static final int submit_area=0x7f0d0051;
         public static final int tabMode=0x7f0d000b;
         public static final int terrain=0x7f0d001b;
-        public static final int textview_1=0x7f0d0069;
-        public static final int textview_2=0x7f0d006a;
-        public static final int textview_3=0x7f0d006b;
         public static final int title=0x7f0d003c;
         public static final int up=0x7f0d0008;
         public static final int useLogo=0x7f0d0012;
         public static final int username=0x7f0d0055;
         public static final int username_edit_text=0x7f0d0063;
-        public static final int username_view=0x7f0d006d;
+        public static final int username_view=0x7f0d006a;
         public static final int withText=0x7f0d0020;
         public static final int wrap_content=0x7f0d0023;
     }

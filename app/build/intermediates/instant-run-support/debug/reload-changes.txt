@@ -1,0 +1,3 @@
+CHANGED,G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\parse\anywall\LoginActivity$3$override.class
+CHANGED,G:\Documents\udacity\developing_android_apps\Anywall\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\parse\anywall\LoginActivity$override.class

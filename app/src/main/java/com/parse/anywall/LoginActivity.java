@@ -60,24 +60,24 @@ public class LoginActivity extends Activity {
 
     // Validate the log in data
     boolean validationError = false;
-    StringBuilder validationErrorMessage = new StringBuilder(getString(R.string.error_intro));
+    boolean Password = true;
+    boolean User = true;
+    String validationErrorMessage = new String();
     if (username.length() == 0) {
-      validationError = true;
-      validationErrorMessage.append(getString(R.string.error_blank_username));
+      User = false;
+      Toast.makeText(LoginActivity.this, getString(R.string.error_blank_username), Toast.LENGTH_SHORT)
+              .show();
+      return;
     }
     if (password.length() == 0) {
-      if (validationError) {
-        validationErrorMessage.append(getString(R.string.error_join));
-      }
-      validationError = true;
-      validationErrorMessage.append(getString(R.string.error_blank_password));
+      Password = false;
+      Toast.makeText(LoginActivity.this, getString(R.string.error_blank_password), Toast.LENGTH_SHORT)
+              .show();
+      return;
     }
-    validationErrorMessage.append(getString(R.string.error_end));
-
-    // If there is a validation error, display the error
-    if (validationError) {
-      Toast.makeText(LoginActivity.this, validationErrorMessage.toString(), Toast.LENGTH_LONG)
-          .show();
+    if (!Password && !User) {
+      Toast.makeText(LoginActivity.this, "Ingresa los datos.", Toast.LENGTH_SHORT)
+              .show();
       return;
     }
 
